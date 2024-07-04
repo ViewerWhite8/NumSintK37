@@ -3,8 +3,9 @@ Disclaimer: This tool is only for education and learning, I am not responsible i
 
 # instalation 
 
+```
 pkg update && pkg upgrade
-
+```
 pkg install python 
 
 pkg install python2 
