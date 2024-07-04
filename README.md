@@ -1,6 +1,9 @@
 # PNsint [ ? ]
-# Author [Haket]
-Disclaimer: This tool is only for education and learning, I am not responsible if misused 
+Tools Name: PNsint
+Author: Haket
+
+# Disclaimer:
+This tool is only for education and learning, I am not responsible if misused 
 
 # instalation 
 
